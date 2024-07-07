@@ -1,0 +1,173 @@
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\CLINICAL SYSTEM.pdb
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Properties.Resources.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.pdb
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Google.Protobuf.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\MySql.Data.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Npgsql.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\RestSharp.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.Common.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.Text.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Buffers.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.CodeDom.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Data.Odbc.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Data.OleDb.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Drawing.Common.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.IO.Packaging.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.IO.Ports.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Memory.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Permissions.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Text.Json.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.ValueTuple.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.csproj.Fody.CopyLocal.cache
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.csproj.CopyComplete
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.adm_doc.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.adm_equip.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.adm_nurse.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.doc_change_pass.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Login_Page.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.nurse_appointment.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Nurse_change_pass.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Nurse_patient.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.DayBlank.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.UserControlBlank.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.UserControlDays.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\CLINICAL SYSTEM.exe.config
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\CLINICAL SYSTEM.exe
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.exe
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.event.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Doc_app.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\configs\config.cfg
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\eng.traineddata
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\equ.traineddata
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\osd.traineddata
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\pdf.ttf
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\pdf.ttx
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\x64\tesseract.dll
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\x86\Tesseract.dll
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Patagames.Ocr.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Patient_Medical_Record.resources
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Hl7.Fhir.Base.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Hl7.Fhir.Conformance.xml
+C:\Users\lenovo\source\repos\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Hl7.Fhir.R4.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\configs\config.cfg
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\eng.traineddata
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\equ.traineddata
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\osd.traineddata
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\pdf.ttf
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\tessdata\pdf.ttx
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\x64\tesseract.dll
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\x86\Tesseract.dll
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\CLINICAL SYSTEM.exe.config
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\CLINICAL SYSTEM.exe
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\CLINICAL SYSTEM.pdb
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Google.Protobuf.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Hl7.Fhir.Base.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Hl7.Fhir.Conformance.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Hl7.Fhir.R4.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\MySql.Data.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Npgsql.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\Patagames.Ocr.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\RestSharp.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.Common.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\ServiceStack.Text.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Buffers.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.CodeDom.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Data.Odbc.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Data.OleDb.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Drawing.Common.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.IO.Packaging.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.IO.Ports.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Memory.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Permissions.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Text.Json.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\bin\Debug\System.ValueTuple.xml
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.csproj.AssemblyReference.cache
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.adm_doc.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.adm_equip.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.adm_nurse.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Doc_app.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.DayBlank.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.doc_change_pass.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.event.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Login_Page.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.nurse_appointment.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Nurse_change_pass.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Nurse_patient.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Properties.Resources.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.Patient_Medical_Record.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.UserControlBlank.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL_SYSTEM.UserControlDays.resources
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.csproj.GenerateResource.cache
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.csproj.Fody.CopyLocal.cache
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.csproj.CopyComplete
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.exe
+C:\Users\Dina\Desktop\CLINICAL SYSTEM\CLINICAL SYSTEM\obj\Debug\CLINICAL SYSTEM.pdb
